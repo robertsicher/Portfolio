@@ -33,15 +33,10 @@
   See it in action:
   https://Robertsicher.github.io/portfolio/
   
-<<<<<<< HEAD
   ![An image of it in action ](./assets/app-image.png)
-=======
-  ![An image of it in action ](./assets/app image.PNG)
->>>>>>> 7c975299b66f096b0cb85ef7f9e4fb2e0bdae851
-  
   
   ## Author
-  George Robertshaw
+  George Robertshaw.
   
   ## Contributing
   N/A
@@ -52,6 +47,7 @@
 Copyright (c) 2020
 
 MIT License
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

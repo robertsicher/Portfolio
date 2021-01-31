@@ -33,7 +33,7 @@
   See it in action:
   https://Robertsicher.github.io/portfolio/
   
-  ![An image of it in action ](./assets/app image.png)
+  ![An image of it in action ](./assets/app%20image.png)
   
   
   ## Author

@@ -31,7 +31,7 @@
   use the online github link to view the page
   
   See it in action:
-  https://Robertsicher.github.io/portfolio/
+  https://Robertsicher.github.io/Portfolio/
   
   ![An image of it in action ](./assets/app-image.PNG)
   
